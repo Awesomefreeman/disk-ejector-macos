@@ -4,7 +4,7 @@ This script allow you to eject multiple drives in macOS. You can choose wich dri
 
 # How to use it
 
-1) Download "disk ejector.workflow" and install it
+1) Download ([disk ejector.workflow](https://github.com/Awesomefreeman/disk-ejector-macos/raw/master/disk%20ejector.workflow.zip)) and install it
 
 <img src="https://github.com/Awesomefreeman/disk-ejector-macos/blob/master/img/Screenshot%202020-06-20%20at%2021.08.21%201.png?raw=true" alt="screenshot" width="400"/>
 
