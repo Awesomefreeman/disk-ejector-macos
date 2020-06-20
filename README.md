@@ -1,6 +1,5 @@
-# disk-ejector-macos
+# disk-ejector-macos <img src="https://github.com/Awesomefreeman/disk-ejector-macos/blob/master/img/dims.png?raw=true" alt="automator" width="50"/>
 
-<img src="https://github.com/Awesomefreeman/disk-ejector-macos/blob/master/img/dims.png?raw=true" alt="automator" width="400"/> 
 This script allow you to eject multiple drives in macOS. You can choose wich drive you want to eject and it works super-fast!
 
 # How to use it
